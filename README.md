@@ -26,6 +26,8 @@
 [6.阿里云-帮助文档](https://help.aliyun.com/?spm=5176.13279267.floorOne.dHelpDoc.6f44378eaQ9OPk&tdsourcetag=s_pcqq_aiomsg)
 
 [7.物联网数据分析服务 > 数据开发 > 数据开发 > 使用示例](https://help.aliyun.com/document_detail/113689.html?spm=a2c4g.11186623.2.21.112c526aX7VJY0&tdsourcetag=s_pcqq_aiomsg)
+
+[8.W5500如何通过 MQTT协议连接阿里云](https://w5500.com/code/W5500EVB/STM32+W5500_MQTT.html)
 # 项目功能：
 ### 导游端：
 1. 通过NFC或扫描二维码（当导游使用无NFC功能的手机时）添加游客到导游端地图中
@@ -46,7 +48,7 @@
 
 ![项目实体](https://img02.sogoucdn.com/app/a/100520146/28f21a2dce74ed941eefd72296d01d96)
 
-# 项目软件；
+# 项目软件:
 
 ### 1.概念效果图：
 ![IMG_6383.PNG](https://img03.sogoucdn.com/app/a/100520146/8a079493b27cc7ec6e62bb3ddaade8a6)
