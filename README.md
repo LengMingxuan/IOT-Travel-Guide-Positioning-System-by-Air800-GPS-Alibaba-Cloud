@@ -44,9 +44,9 @@
 
 # 二、项目实体
 
-![项目实体图](http://yanxuan.nosdn.127.net/516d14d14371cc052107a0137c128fe8.png)
+![项目实体](https://img02.sogoucdn.com/app/a/100520146/28f21a2dce74ed941eefd72296d01d96)
 
 # 项目软件；
 
 ### 1.概念效果图：
-![概念效果图](http://yanxuan.nosdn.127.net/3ce8a3e91d1ef4326f565002a2cc4c0c.PNG)
+![IMG_6383.PNG](https://img03.sogoucdn.com/app/a/100520146/8a079493b27cc7ec6e62bb3ddaade8a6)
