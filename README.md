@@ -26,6 +26,27 @@
 [6.阿里云-帮助文档](https://help.aliyun.com/?spm=5176.13279267.floorOne.dHelpDoc.6f44378eaQ9OPk&tdsourcetag=s_pcqq_aiomsg)
 
 [7.物联网数据分析服务 > 数据开发 > 数据开发 > 使用示例](https://help.aliyun.com/document_detail/113689.html?spm=a2c4g.11186623.2.21.112c526aX7VJY0&tdsourcetag=s_pcqq_aiomsg)
-
+# 项目功能：
+### 导游端：
+1. 通过NFC或扫描二维码（当导游使用无NFC功能的手机时）添加游客到导游端地图中
+2. 导游可在地图上查看所有已添加游客的位置以及旅游大巴的具体位置
+3. 导游可自行设置危险（警示）区域，一旦有游客进入App立刻报警
+4. app根据当前的游览景点范围自动划分游览区域（绿色线）一旦有游客外出则报警
+5. 轻点某一个定位蓝色标记可查看该游客的信息及直接拨打其电话，另外可添加备注标记特殊旅客
+6. 轻点大巴可联系大巴司机
+7. app右下角显示当前游览景点及游览时间，方便导游掌握信息
+### 游客端：
+1. 含有印有二维码的NFC标签的吊牌，方便导游快速添加游客
+2. 内置GPS可将本吊牌的位置实时上传至导游端
 # 一、Air 800
+### 1.引脚图
 ![管脚](https://img01.sogoucdn.com/app/a/100520146/9f2c7ed3ec8b72fc559b4ee65cfe9380)
+
+# 二、项目实体
+
+![项目实体图](http://yanxuan.nosdn.127.net/516d14d14371cc052107a0137c128fe8.png)
+
+# 项目软件；
+
+### 1.概念效果图：
+![概念效果图](http://yanxuan.nosdn.127.net/3ce8a3e91d1ef4326f565002a2cc4c0c.PNG)
