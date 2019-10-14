@@ -11,3 +11,5 @@
 [3.Luat-Github](https://github.com/openLuat/Luat_2G_RDA_8955)
 
 [4.Air800 GNSS+GPRS 模块](http://www.openluat.com/Product/gnssgprs/Air800.html)
+
+![管脚](https://img01.sogoucdn.com/app/a/100520146/9f2c7ed3ec8b72fc559b4ee65cfe9380)
