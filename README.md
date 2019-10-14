@@ -10,6 +10,7 @@
 [文件类文献:Here to GO](https://github.com/LengMingxuan/IOT_Inf_2019) 
 
 ---
+[0.官方Demo（脚本库+应用脚本）★]（https://github.com/openLuat/Luat_2G_RDA_8955/tree/master/script）
 
 [1.Lua-百度百科](https://baike.baidu.com/item/lua/7570719?fr=aladdin)
 
