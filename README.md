@@ -7,8 +7,6 @@
 
 # 参考文献：
 
----
-
 [文件类文献:Here to GO](https://github.com/LengMingxuan/IOT_Inf_2019) 
 
 ---
