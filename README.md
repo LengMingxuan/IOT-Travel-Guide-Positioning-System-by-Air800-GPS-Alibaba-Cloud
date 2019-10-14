@@ -16,4 +16,6 @@
 
 [5.阿里云物联网平台 名词解释](https://help.aliyun.com/document_detail/30524.html?spm=a2c4g.11186623.2.25.3b861996k6z1xq&tdsourcetag=s_pcqq_aiomsg)
 
+[6.阿里云-帮助文档](https://help.aliyun.com/?spm=5176.13279267.floorOne.dHelpDoc.6f44378eaQ9OPk&tdsourcetag=s_pcqq_aiomsg)
+
 ![管脚](https://img01.sogoucdn.com/app/a/100520146/9f2c7ed3ec8b72fc559b4ee65cfe9380)
