@@ -51,4 +51,4 @@
 # 项目软件:
 
 ### 1.概念效果图：（阿里云可以直接导出KPI）
-![IMG_6383.PNG](https://img03.sogoucdn.com/app/a/100520146/8a079493b27cc7ec6e62bb3ddaade8a6)
+![IMG_6383.PNG](https://img03.sogoucdn.com/app/a/100520146/8a079493b27cc7ec6e62bb3ddaade8a6) 
