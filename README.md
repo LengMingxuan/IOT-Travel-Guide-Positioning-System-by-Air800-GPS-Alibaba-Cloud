@@ -46,7 +46,7 @@
 
 # 二、项目实体
 
-![](https://raw.githubusercontent.com/LengMingxuan/My-Image-Hosting-Service/master/img/3d.png)
+![](https://raw.githubusercontent.com/LengMingxuan/My-Image-Hosting-Service/master/img/3ds.png)
 
 # 项目软件:
 
