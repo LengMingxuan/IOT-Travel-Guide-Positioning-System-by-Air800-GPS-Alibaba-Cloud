@@ -46,7 +46,7 @@
 
 # 二、项目实体
 
-![项目实体](https://img02.sogoucdn.com/app/a/100520146/28f21a2dce74ed941eefd72296d01d96)
+![](https://raw.githubusercontent.com/LengMingxuan/My-Image-Hosting-Service/master/img/3d.png)
 
 # 项目软件:
 
